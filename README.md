@@ -3,6 +3,7 @@
 RGB to Hex ve Hex to RGB dönüşümleri ile ilgili bir iOS uygulamasıdır. <br>
 Kullanıcıdan alınan değerlere göre dönüşümler yapılmaktadır. <br>
 
+<img src = "rgbtohex2.png" width=250 height=500>  <img src = "rgbtohex.png" width=250 height=500>
 ## RGB to HEX conversion
 
 Convert red color (255,0,0) to hex color code: <br>
@@ -25,5 +26,4 @@ B = (00)16 = (0)10<br>
 OR<br>
 RGB = (255, 215, 0)<br>
 
-
-<img src = "rgbtohex.png" width=250 height=500>
+<img src = "rgbtohex2.png" width=250 height=500>  <img src = "rgbtohex.png" width=250 height=500>
