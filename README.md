@@ -1,7 +1,7 @@
 # RGB-HEX-Converter
 
-RGB to Hex ve Hex to RGB dönüşümleri ile ilgili bir iOS uygulamasıdır. <br>
-Kullanıcıdan alınan değerlere göre dönüşümler yapılmaktadır. <br>
+It is an iOS application dealing with RGB to Hex and Hex to RGB conversions. <br>
+Conversions are made according to the values received from the user. <br>
 
 <img src = "rgbtohex.png" width=250>  <img src = "rgbtohex1.png" width=250>
 ## RGB to HEX conversion
